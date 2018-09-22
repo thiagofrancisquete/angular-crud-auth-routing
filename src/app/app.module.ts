@@ -14,7 +14,7 @@ import { CursoDetalheComponent } from './curso-detalhe/curso-detalhe.component';
     HomeComponent,
     LoginComponent,
     CursosComponent,
-    CursoDetalheComponent
+    CursoDetalheComponent,
   ],
   imports: [
     BrowserModule,
