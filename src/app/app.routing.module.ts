@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { CursosComponent } from './cursos/cursos.component';
-import { CursoDetalheComponent } from './curso-detalhe/curso-detalhe.component';
+import { CursoDetalheComponent } from './cursos/curso-detalhe/curso-detalhe.component';
 import { LoginComponent } from './login/login.component';
-import { CursoNotFoundComponent } from './curso-not-found/curso-not-found.component';
+import { CursoNotFoundComponent } from './cursos/curso-not-found/curso-not-found.component';
 import { HomeComponent } from './home/home.component';
 
 const appRoutes: Routes = [
