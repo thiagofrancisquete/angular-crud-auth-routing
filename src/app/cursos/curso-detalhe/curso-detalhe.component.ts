@@ -27,7 +27,7 @@ export class CursoDetalheComponent implements OnInit {
       this.curso = this.cursosService.getCurso(this.id);
 
       if (this.curso == null) {
-        this.router.navigate(['error-404']);
+        this.router.navigate(['cursos/error-404']);
       }
      }
    )
