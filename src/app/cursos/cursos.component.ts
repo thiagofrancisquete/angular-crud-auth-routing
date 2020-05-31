@@ -18,4 +18,3 @@ export class CursosComponent implements OnInit {
   }
 
 }
- 
